@@ -26,7 +26,7 @@ const Header = () => {
             <ShoppingBasket className="w-5 h-5 text-primary-foreground" />
           </div>
           <span className="font-display text-2xl font-semibold text-foreground">
-            Mercadinho<span className="text-primary"> São Jose</span>
+            Mercadinho<span className="text-primary"> São José</span>
           </span>
         </Link>
 

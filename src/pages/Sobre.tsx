@@ -6,7 +6,7 @@ import storeExterior from "@/assets/store-exterior.jpg";
 import teamImage from "@/assets/team.jpg";
 
 const milestones = [
-  { year: "2004", title: "Fundação", description: "O Mercadinho São Jose abre suas portas com apenas 50m²" },
+  { year: "2004", title: "Fundação", description: "O Mercadinho São José abre suas portas com apenas 50m²" },
   { year: "2010", title: "Expansão", description: "Primeira reforma, triplicando o espaço de vendas" },
   { year: "2015", title: "Padaria Artesanal", description: "Inauguração da nossa padaria própria" },
   { year: "2020", title: "Modernização", description: "Implementação de sistemas modernos e delivery" },
@@ -38,7 +38,7 @@ const Sobre = () => {
                 Sobre Nós
               </h1>
               <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-                Conheça a história do Mercadinho São Jose e os valores que 
+                Conheça a história do Mercadinho São José e os valores que 
                 guiam nosso trabalho há mais de 20 anos.
               </p>
             </motion.div>
@@ -63,7 +63,7 @@ const Sobre = () => {
                 </h2>
                 <div className="space-y-4 text-muted-foreground leading-relaxed">
                   <p>
-                    O Mercadinho São Jose nasceu em 2004, fruto do sonho de uma família 
+                    O Mercadinho São José nasceu em 2004, fruto do sonho de uma família 
                     que acreditava em oferecer produtos de qualidade com atendimento 
                     personalizado para a comunidade.
                   </p>
@@ -87,7 +87,7 @@ const Sobre = () => {
               >
                 <img
                   src={storeExterior}
-                  alt="Fachada do Mercadinho São Jose"
+                  alt="Fachada do Mercadinho São José"
                   className="rounded-2xl shadow-elevated w-full"
                 />
               </motion.div>
@@ -178,7 +178,7 @@ const Sobre = () => {
               >
                 <img
                   src={teamImage}
-                  alt="Equipe do Mercadinho São Jose"
+                  alt="Equipe do Mercadinho São José"
                   className="rounded-2xl shadow-elevated w-full"
                 />
               </motion.div>
