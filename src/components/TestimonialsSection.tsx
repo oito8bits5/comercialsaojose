@@ -7,7 +7,7 @@ const testimonials = [
     id: 1,
     name: "Maria Silva",
     role: "Cliente há 5 anos",
-    content: "O Mercadinho Familiar é como uma extensão da minha casa. Produtos sempre frescos e atendimento impecável!",
+    content: "O Mercadinho São Jose é como uma extensão da minha casa. Produtos sempre frescos e atendimento impecável!",
     rating: 5,
     avatar: "MS"
   },

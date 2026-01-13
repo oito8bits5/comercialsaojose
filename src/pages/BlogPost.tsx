@@ -359,7 +359,7 @@ const BlogPost = () => {
       <section className="py-12 bg-primary/10">
         <div className="container mx-auto px-4 text-center">
           <h3 className="text-2xl font-display font-bold text-foreground mb-2">
-            Encontre todos os ingredientes no Mercadinho Familiar!
+            Encontre todos os ingredientes no Mercadinho São Jose!
           </h3>
           <p className="text-muted-foreground mb-4">
             📍 Rua das Flores, 123 - Centro | ⏰ Seg a Sáb: 7h às 21h

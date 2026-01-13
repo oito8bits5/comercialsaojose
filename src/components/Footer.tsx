@@ -13,7 +13,7 @@ const Footer = () => {
                 <ShoppingBasket className="w-5 h-5 text-primary" />
               </div>
               <span className="font-display text-2xl font-semibold">
-                Mercadinho Familiar
+                Mercadinho São Jose
               </span>
             </Link>
             <p className="text-primary-foreground/80 leading-relaxed">
@@ -98,7 +98,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-12 pt-8 border-t border-primary-foreground/20 text-center text-primary-foreground/60">
-          <p>© 2024 Mercadinho Familiar. Todos os direitos reservados.</p>
+          <p>© 2024 Mercadinho São Jose. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>
