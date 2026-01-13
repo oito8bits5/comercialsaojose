@@ -42,7 +42,7 @@ const LocationSection = () => {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Localização do Mercadinho São Jose"
+              title="Localização do Mercadinho São José"
             />
           </motion.div>
 

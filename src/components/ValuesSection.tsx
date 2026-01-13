@@ -39,7 +39,7 @@ const ValuesSection = () => {
             Nossos Valores
           </span>
           <h2 className="font-display text-4xl md:text-5xl font-bold mt-2 mb-4">
-            Por que escolher o Mercadinho São Jose?
+            Por que escolher o Mercadinho São José?
           </h2>
           <p className="text-primary-foreground/80 text-lg max-w-2xl mx-auto">
             Mais do que um mercado, somos um lugar onde você encontra 
