@@ -54,15 +54,15 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center gap-3 text-primary-foreground/80">
                 <MapPin className="w-5 h-5 flex-shrink-0" />
-                <span>Rua das Flores, 123 - Centro</span>
+                <span>Rua MA-122, Nº 378 - Vila Madeira</span>
               </li>
               <li className="flex items-center gap-3 text-primary-foreground/80">
                 <Phone className="w-5 h-5 flex-shrink-0" />
-                <span>(11) 98765-4321</span>
+                <span>(94) 99210-3361</span>
               </li>
               <li className="flex items-center gap-3 text-primary-foreground/80">
                 <Mail className="w-5 h-5 flex-shrink-0" />
-                <span>contato@mercadinhofamiliar.com</span>
+                <span>comercialsaojose873@gmail.com</span>
               </li>
             </ul>
           </div>
