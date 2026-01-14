@@ -62,7 +62,7 @@ const HeroSection = () => {
           >
             <Button
               size="lg"
-              className="text-lg px-8 py-6 font-semibold bg-accent hover:bg-accent/90"
+              className="text-lg px-8 py-6 font-semibold bg-primary text-primary-foreground hover:bg-primary/90"
               onClick={scrollToProducts}
             >
               Ver Produtos
