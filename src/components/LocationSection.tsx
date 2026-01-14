@@ -98,8 +98,8 @@ const LocationSection = () => {
                     Contato
                   </h3>
                   <div className="text-muted-foreground space-y-1">
-                    <p><span className="font-medium text-foreground">Telefone:</span> (11) 98765-4321</p>
-                    <p><span className="font-medium text-foreground">WhatsApp:</span> (11) 98765-4321</p>
+                    <p><span className="font-medium text-foreground">Telefone:</span> (94) 99210-3361</p>
+                    <p><span className="font-medium text-foreground">WhatsApp:</span> (94) 99210-3361</p>
                   </div>
                 </div>
               </div>
